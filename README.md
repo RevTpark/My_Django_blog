@@ -1,7 +1,7 @@
 # My First website with Django.
 This blog website is focused heavily on the backend code using django and contains basic frontend using css, html and bootstrap.\
 The database is managed by sql and API calls are handled by built in Django features, which can easily be switched out with RESTful API.
-I have not made the website live yet, it can still be run on local server using `-python manage.py runserver`\
+I have not made the website live yet, it can still be run on local server using `-python manage.py runserver`
 
 Here are some features of the blog: 
 ## Home Page
